@@ -16,8 +16,9 @@ namespace Practica1
 			if (s == m) {
 				Console.WriteLine("Que mal");
 			}
-			
-			
+			else {
+				Console.WriteLine("Ponga algo valido, no mame");
+			}
 		}
 	}
 }
